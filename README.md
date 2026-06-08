@@ -20,4 +20,4 @@ TraeCN 平台应用亮点
 2.模块化架构：代码解耦，依托TraeCN易扩展、易维护；
 3.完整工程化：包含前后端代码、知识库、配置文件、全套课程设计文档，可一键部署。
 📸TraeCN 开发界面
-![TraeCN 智能体配置](docs/trae_config.png)
+![项目界面](docs/ui.png)
