@@ -1,4 +1,4 @@
-健康管理助手——自定义AI智能体[网页地址https://6a30d3ef0e35a978b4340107--health-management-assistant.netlify.app/]
+健康管理助手——自定义AI智能体[网页地址https://solwell.netlify.app/]
 项目简介
 本项目基于字节跳动TraeCN AI原生IDE开发，搭建专属健康管理智能体，结合RAG检索增强技术与智谱GLM-4-Flash大模型，实现饮食建议、运动计划、健康提醒三大核心问答功能。项目全程使用TraeCN完成智能体配置、代码生成、调试与流程编排。
 技术栈
