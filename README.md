@@ -14,4 +14,4 @@
 📸TraeCN 开发界面
 [项目界面](ui.png)
 📸TraeCN 演示视频
-![演示视频](demo%20video.mp4)
+[演示视频](demovideo.mp4)
